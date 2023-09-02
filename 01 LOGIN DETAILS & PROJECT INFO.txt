@@ -1,0 +1,19 @@
+**Log on to realsourcecode.com for more projects!**
+
+**Database Name: shopci**
+
+**Developed by realsourcecode**
+
+**Recommended PHP Version 5.6.3, 7.4.12**
+
+
+Remember: Do not change the project's folder name without updating $config['base_url']
+
+
+**Admin Login Details** 
+
+Email	: admin@gmail.com
+Password: admin
+
+
+After registering customer's account, head over to phpmyadmin under customer's table and change the registered's user's active status in order to use it!
