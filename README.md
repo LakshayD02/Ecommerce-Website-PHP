@@ -29,7 +29,7 @@ This is a full-stack e-commerce web application that allows users to shop seamle
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/full-stack-ecommerce.git
+    https://github.com/LakshayD02/Ecommerce-Website-PHP.git
     ```
 2. Set up the database with the provided `.sql` file.
 3. Configure the `config.php` file for your database credentials.
