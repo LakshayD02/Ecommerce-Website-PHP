@@ -1,9 +1,6 @@
 **Database Name: shopci**
 
 
-Remember: Do not change the project's folder name without updating $config['base_url']
-
-
 **Admin Login Details** 
 
 Email	: admin@gmail.com
